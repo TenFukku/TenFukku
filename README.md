@@ -7,7 +7,7 @@
 🐔 Additionally, toward the end of my fourth year, I plan to study AWS and improve my English to elevate my personal skills.<br>
 🐓 Ultimately, I aspire to secure an entry-level FullStack developer position at a Japanese company where I can apply what I've learned in a practical setting
 
-![banner](https://drive.google.com/uc?export=view&id=1bLTqsoWZnvx8lEN162F-a-kyzmQ_ixQl)
+![banner](https://drive.google.com/uc?id=11SsqFz7RwX5mpPHCd6wJSRM2N3kGIXFD))
 
 # Skills
 
